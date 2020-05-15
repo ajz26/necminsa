@@ -1,0 +1,44 @@
+.titulo-convocatorias-btn .uvc-main-heading{
+    border-radius: 25px;
+    background: linear-gradient(90deg, rgba(33,131,208,1) 0%, rgba(34,95,103,1) 100%);
+}
+
+.titulo-convocatorias-btn .uvc-main-heading h2{
+    padding: 10px;
+    color: #fff !important;
+}
+
+.tabla-de-convocatorias-home{
+border: 2px solid #69acca;
+}
+
+.celda-background{
+background-color:
+#338caa;
+color:
+#fff;
+text-align: center;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.buscador-de-convocatorias {
+	width: 100%;
+	max-width: 450px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.buscador-de-convocatorias input {
+	border-radius: 50px !important;
+	border: 2px solid !important;
+	border-color: #006e9f !important;
+}
+.buscador-de-convocatorias button {
+	position: absolute !important;
+	right: 5px;
+	font-size: 12px !important;
+	top: 4px !important;
+}
